@@ -1,0 +1,2 @@
+# Mynewproject
+muleproject
